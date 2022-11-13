@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdgh&label=Profile%20views&color=0e75b6&style=flat" alt="shahdgh" /> </p>
 <p align="left"> <a href="https://twitter.com/shoo_gh" target="blank"><img src="https://img.shields.io/twitter/follow/shoo_gh?logo=twitter&style=for-the-badge" alt="shoo_gh" /></a> </p>
 :telescope: I’m currently working on [E.M.S](https://ems-hospital.herokuapp.com/)
-:seedling: I’m currently learning *React-Native*
+:seedling: I’m currently learning *React*
 :mailbox: How to reach me *Shahad.Alghmadii@hotmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
